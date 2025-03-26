@@ -7,4 +7,7 @@
 - `waiter-service` — сервис официантов
 - `kitchen-service` — сервис кухни
 
+---
+
+Ветка `lesson1` создана для демонстрации Pull Request на проверку ДЗ.
 
